@@ -1,5 +1,5 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" <!-- Line1-->>
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"> <!--Line 2 online-->
   <modelVersion>4.0.0</modelVersion>
 <!--Merge conflict check Developer Branch--><!-- Line 4 updated in local-->
   <groupId>QantasUiAutomation</groupId><!-- Line 5-->
