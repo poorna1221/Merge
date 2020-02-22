@@ -83,7 +83,7 @@ public class FlightsBooking {
 	//	robot.keyPress(KeyEvent.VK_DOWN);
 		//Thread.sleep(1000);
 		//robot.keyPress(KeyEvent.VK_DOWN);
-		//Thread.sleep(1000);
+		//Thread.sleep(1000); test merge conflict
 		//robot.keyPress(KeyEvent.VK_DOWN);
 		//Thread.sleep(1000);
 		//robot.keyPress(KeyEvent.VK_ENTER);
