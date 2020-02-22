@@ -79,6 +79,14 @@ public class FlightsBooking {
 		robot.keyPress(KeyEvent.VK_DOWN);
 		Thread.sleep(1000);
 		robot.keyPress(KeyEvent.VK_ENTER);
+			//	Robot robot = new Robot();
+	//	robot.keyPress(KeyEvent.VK_DOWN);
+		//Thread.sleep(1000);
+		//robot.keyPress(KeyEvent.VK_DOWN);
+		//Thread.sleep(1000);
+		//robot.keyPress(KeyEvent.VK_DOWN);
+		//Thread.sleep(1000);
+		//robot.keyPress(KeyEvent.VK_ENTER);
 
 		pageObjects.toLocationObject.sendKeys(prop.getProperty("toLocation"));
 
