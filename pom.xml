@@ -3,7 +3,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
   <modelVersion>4.0.0</modelVersion> 
 
 <!--Merge conflict check Developer Branch--><!-- Line 4 updated in local-->
-  <groupId>QantasUiAutomation</groupId><!-- Line 5-->
+  <groupId>QantasUiAutomation</groupId><!-- Line 5 local-->
   <artifactId>QantasUiAutomation</artifactId> <!-- Line 6-->
   <version>0.0.1-SNAPSHOT</version> 
   <packaging>jar</packaging>
